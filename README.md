@@ -141,34 +141,7 @@
 </p>
 
 
-
 ---
-
-### 📊 Coding Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajnandani05&theme=tokyo-night&bg_color=00000000" />
-</p>
-
-
-
----
-
-### 💻 GeeksforGeeks Stats
-
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-💻%20160_Days_Challenge😊-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
- 
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Rajnandani05&&style=flat-square" align="center" />
