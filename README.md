@@ -1,5 +1,6 @@
-## <h1 align ="center"> Hi👋, I'm Rajnandani </h1>
-### <div align="center">  Frontend Developer | Java | DSA👨‍💻🚀</div>  
+<h1 align ="center"> Hi👋, I'm Rajnandani </h1>
+
+<h3 align="center">  Frontend Developer | Java | DSA👨‍💻🚀</h3>  
 
 - 🌱 I’m currently learning Data Structure Algorithm
 - 👨‍💻 All of my projects are available at https://github.com/Rajnandani05
@@ -8,6 +9,8 @@
 - 📫 How to reach me: @nandanibauddh563@gmail.com
 - 😄 Pronouns: She/Her — but you can also call me Nandani😄
 - ⚡ Fun fact:  I use tabs over spaces😁
+
+---
 
 - <div align="center">
 <img src="" align="center" style="width: 100%" />
@@ -22,7 +25,7 @@
 
 
 
-### Frontend  
+### 🧰 language and tools I use  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -52,7 +55,7 @@
 <br/>  
 
 
-## Connect with me  
+### 🌐 Connect with me  
 <a href="https://github.com/Rajnandani05" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -67,11 +70,12 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rajnandani05&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
+##  📈 Github Stats    
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajnandani05&show_icons=true&theme=radical" alt="Rajnandani's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajnandani05&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
  
   
