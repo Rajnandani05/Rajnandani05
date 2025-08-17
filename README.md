@@ -1,4 +1,4 @@
-## Hi there 👋
+## <div align ="center"> Hi👋, I'm Rajnandani </div>
 ### <div align="center">  Frontend Developer | Java | DSA👨‍💻🚀</div>  
 
 - 🌱 I’m currently learning Data Structure Algorithm
