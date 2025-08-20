@@ -1,6 +1,6 @@
 <h1 align ="center"> Hi👋, I'm Rajnandani </h1>
 
-<h3 align="center">Frontend Developer | Java | DSA👨‍💻🚀</h3>  
+<h3 align="center">Frontend Developer | MERN Stack | Java | DSA👨‍💻🚀</h3>  
 
 - 🌱 I’m currently learning Data Structure Algorithm
 - 👨‍💻 All of my projects are available at https://github.com/Rajnandani05
