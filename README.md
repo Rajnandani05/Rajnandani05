@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Data Structure Algorithm
 - 👨‍💻 All of my projects are available at https://github.com/Rajnandani05
 - 🤔 I’m looking for help with improving my frontend architecture and real-world project experience.
-- 💬 Ask me about how coder survive late night 😁😁
 - 📫 How to reach me: @nandanibauddh563@gmail.com
 - 😄 Pronouns: She/Her — but you can also call me Nandani😄
 - ⚡ Fun fact:  I use tabs over spaces😁
@@ -83,40 +82,6 @@
 
 ---
 
-
-
-### 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Rajnandani05" alt="Rajnandani's GitHub Contribution Graph" />
-</p>
-
-
-
----
-
-### 📊 Coding Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajnandani05&theme=tokyo-night&bg_color=00000000" />
-</p>
-
-
-
----
-
-### 💻 GeeksforGeeks Stats
-
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-💻%20160_Days_Challenge😊-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-<p alt="Rajnandani's GitHub Contribution Graph"> 
-</p>
-
-
-
----
 
 
 <div align="center">
